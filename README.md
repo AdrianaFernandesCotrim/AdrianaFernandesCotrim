@@ -33,15 +33,15 @@ Para me conhecer como profissional, clique no link abaixo:
 
 
 <!--Intro start-->
-- 🔭 I’m currently working **Python, HTML, CSS, Java Script,  React Js, Nodejs, MongoDB**
+- 🔭 I’m currently working **Python, HTML, CSS, JavaScript, React.js, Node.js, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stacks for Scalable Applications.**
 
-- ☁️ I'm interested in cyber security, Redes, AI, and Banco de dados. So,I'm learning **Desenvolvimento FullStack**
+- ☁️ I'm interested in cyber security, Redes, AI, Programação no-code, low-code and high code, and Banco de dados. So, I'm learning **Desenvolvimento FullStack**
 
-- 📝 I regularly write articles on [https://hashnode.com/@AdrianaFernandesCotr](https://adrianafernandescotrim.hashnode.dev/)
+- 📝 I'm inicialzying write articles on [https://hashnode.com/@AdrianaFernandesCotr](https://adrianafernandescotrim.hashnode.dev/)
 
-- 💬 Ask me about **Python, HTML, CSS, javascript, React JS, Flask, fast API, Django, NodeJS, MongoDB**
+- 💬 Ask me also about **Python, HTML, CSS, javascript, React JS, Flask, fast API, Django, NodeJS, MongoDB**
 
 - 📫 Feel free to reach me out **adrianafernandescotrim@gmail.com**
 
@@ -129,6 +129,6 @@ Para me conhecer como profissional, clique no link abaixo:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credits: [1010nishant]and[AdrianaFernandesCotrim](https://github.com/AdrianaFernandesCotrim)
+Credits: [1010nishant] and [AdrianaFernandesCotrim](https://github.com/AdrianaFernandesCotrim)
 
-Last Edited on: 28/4/2024
+Last Edited on: 29/4/2024
