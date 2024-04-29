@@ -37,11 +37,11 @@ Para me conhecer como profissional, clique no link abaixo:
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stacks for Scalable Applications.**
 
-- ☁️ I'm interested in cyber security, Redes, AI, Programação no-code, low-code and high code, and Banco de dados. So, I'm learning **Desenvolvimento FullStack**
+- ☁️ I'm interested in cyber security, Redes, AI, Programação no-code, low-code, high code and Banco de dados. So, I'm learning **Desenvolvimento FullStack**
 
 - 📝 I'm inicialzying write articles on [https://hashnode.com/@AdrianaFernandesCotr](https://adrianafernandescotrim.hashnode.dev/)
 
-- 💬 Ask me also about **Python, HTML, CSS, javascript, React JS, Flask, fast API, Django, NodeJS, MongoDB**
+- 💬 Ask me also about **Python, HTML, CSS, JavaScript, React JS, Flask, Fast API, Django, NodeJS, MongoDB**
 
 - 📫 Feel free to reach me out **adrianafernandescotrim@gmail.com**
 
