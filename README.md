@@ -33,19 +33,19 @@ Para me conhecer como profissional, clique no link abaixo:
 
 
 <!--Intro start-->
-- 🔭 I’m currently working Python, HTML, CSS, Java Script,  React Js, Nodejs, MongoDB**
+- 🔭 I’m currently working **Python, HTML, CSS, Java Script,  React Js, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cyberSecurity. So,I'm learning **Desenvolvimento FullStack**
+- ☁️ I'm interested in cyber security, Redes, AI, and Banco de dados. So,I'm learning **Desenvolvimento FullStack**
 
-- 📝 I regularly write articles on [Hashnode](https://adrianafernandescotrim.hashnode.dev/)
+- 📝 I regularly write articles on [https://hashnode.com/@AdrianaFernandesCotr](https://adrianafernandescotrim.hashnode.dev/)
 
 - 💬 Ask me about **python, html, css, javascript, react js, flask, fastapi, django nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **adrianafernandescotrim@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/adriana2024) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [.adriana2024](https://discordapp.com/users/adriana2024) my username!
 <!--Intro end-->
 
 
