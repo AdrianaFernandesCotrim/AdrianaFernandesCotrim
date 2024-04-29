@@ -93,7 +93,7 @@ Para me conhecer como profissional, clique no link abaixo:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,figma,redis,github,html,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,ts,vscode,flask,kubernetes&perline=14"/>   -->
+     <img src="https://skillicons.dev/icons?i=git,css,discord,docker,figma,redis,github,html,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,ts,r,npm,ai,notion,django,windows,sqlite,vscode,flask,kubernetes&perline=14"/>   -->
   </a>
 </p>
 
