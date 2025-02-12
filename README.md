@@ -1,6 +1,6 @@
 ## **pt-br**
 
-### Sou Adriana. Tudo bem?
+### Sou Adriana Cotrim! Tudo bem?
 Para me conhecer como profissional, clique no link abaixo:  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-cotrim-94192a49/)
 
@@ -21,7 +21,7 @@ Para me conhecer como profissional, clique no link abaixo:
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <div align="center">
-  <a href=" ">
+  <a href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
     <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
